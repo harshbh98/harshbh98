@@ -1,4 +1,4 @@
-# Hey there, I'm Harsh Bhardwaj 👋
+## Hey there, I'm Harsh Bhardwaj 👋
 
 ### 🚀 DevOps Engineer | MLOps Enthusiast | Cloud Architect
 
